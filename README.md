@@ -16,7 +16,7 @@
     <P>We are the manufacturer of Puffed rice making machines</P>
     <p>to purchase our machineryes you can contact with our  </p>
     <a href="dipanjansharma825000@gmail.com">mail id
- <a href="8942864942">Contact no</a>
+ <a href="dipanjan.html">next page</a>
 
     </a>
 
