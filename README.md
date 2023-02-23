@@ -8,24 +8,17 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>DipanjanSharma </h1>
-    <p>Youtube creator</p>
-    <!--Image tag-->
-    <img src="https://scontent.frdp4-2.fna.fbcdn.net/v/t39.30808-1/315638793_1269616743610214_2486176067149351316_n.jpg?stp=dst-jpg_p160x160&_nc_cat=110&ccb=1-7&_nc_sid=7206a8&_nc_ohc=gF1T3kosiFoAX95ELRz&_nc_ht=scontent.frdp4-2.fna&oh=00_AfATl-aJgJKGqUzPxLfBd3Z4zlZUfhf4EXF_rv-8WQScgA&oe=63FAF70B" alt="">
-    <h2>whats your responce</h2>
-    <img src="/scontentent.jfif" alt=human image"">
-    <h2>Dr bc roy Enggeneering Collage</h2>
-<u>how big it was</u>
-<br>
-<a href="dipanjan.html">click here</a>
-<pre>dipanjan
-    tum
-    tum
-    
-</pre>
+    <p>Welcome to</p>
+    <h1>Sharma Shilpalaya.in</h1>
+    <a href="dipanjansharma.github.io/Sharmashilpalaya">to visit</a>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FRice-puff-making-machine-Output%2Fdp%2FB06XXBQKVM&psig=AOvVaw02H14VcyMN5uvxtHxWX4YY&ust=1677218065818000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiF7LX6qv0CFQAAAAAdAAAAABAE" alt="Puffer rice making machine">
+    <img src="https://m.media-amazon.com/images/I/21VtzCQCH2L.jpg" alt="Puffed rice making machine">
+    <P>We are the manufacturer of Puffed rice making machines</P>
+    <p>to purchase our machineryes you can contact with our  </p>
+    <a href="dipanjansharma825000@gmail.com">mail id
+ <a href="8942864942">Contact no</a>
 
+    </a>
 
-
-    
 </body>
 </html>
