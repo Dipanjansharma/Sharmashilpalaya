@@ -17,6 +17,7 @@
     <p>to purchase our machineryes you can contact with our  </p>
     <a href="dipanjansharma825000@gmail.com">mail id
  <a href="dipanjan.html">next page</a>
+         <a href="main.c">uidlog</a>
 
     </a>
 
